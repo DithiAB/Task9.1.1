@@ -1,0 +1,17 @@
+body{
+background-image: url('../assets/imag.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+}
+.main{
+    margin-bottom: 350px;
+}
+input{
+    height: 25px;
+    font-size: 20px;
+    background-color: rgb(113, 113, 101);
+    border-radius: 5px;
+}
+button:hover{
+    background-color: rgb(63, 122, 122);
+}
